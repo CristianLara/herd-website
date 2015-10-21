@@ -1,7 +1,7 @@
 #Herd
 
 ##Introduction
-Herd is a project created by Dartis Willis, Neven Wang-Tomic, and Cristian Lara for CS 147, Intro to HCI Design at Stanford University. This project is centered around the idea of "CrowdPower", and leverages this to provide the public with relevant information about events to help decide what events to attend.
+Herd is an application created and developed by Dartis Willis, Neven Wang-Tomic, and Cristian Lara for CS 147: Intro to HCI Design at Stanford University. The application is centered around the idea of Crowd Power, and leverages it to provide the public with relevant and useful information about events.
 
 ## Credit
 The Herd website is based on [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
