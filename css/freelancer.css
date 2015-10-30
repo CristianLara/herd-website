@@ -149,7 +149,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
+        padding: 0px 0;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
@@ -192,6 +192,10 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
     background-color: #39d96e;
+}
+
+.protoio-embed-prototype {
+    padding-left: 20px;
 }
 
 section {
