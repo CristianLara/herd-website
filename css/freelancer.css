@@ -213,6 +213,12 @@ section h2 {
     font-size: 3em;
 }
 
+section.video {
+    color: #202020;
+    background: #fff;
+    text-align: center;
+}
+
 section.success {
     color: #fff;
     background: #202020;
