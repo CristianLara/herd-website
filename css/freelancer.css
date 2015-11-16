@@ -96,6 +96,7 @@ header {
     text-align: center;
     color: #fff;
     background: #202020;
+    background-image: "img/splash.png";
 }
 
 header .container {
