@@ -35,3 +35,14 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$(window).scroll(function(e){
+  parallax();
+});
+
+
+function parallax(){
+  var scrolled = $(window).scrollTop();
+  // $('.bg').css('top',-(scrolled*0.2)+'px');
+  $('header').css('background-position-y', (scrolled * 0.4) +'px')
+}
